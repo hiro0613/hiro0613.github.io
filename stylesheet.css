@@ -1,6 +1,6 @@
-.span {
+span {
  cursor: pointer;
 }
-.span:hover {
+span:hover {
    opacity: 0.5;
 }
